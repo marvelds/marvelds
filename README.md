@@ -17,4 +17,4 @@ console.log(`Welcome to ${developer.name}'s profile!`);
 - 📚 A beginner and trying to learn the fundamentals of coding.
 - 💻 Dreaming to be a front-end developer.
 
-“Writing code, deleting code, got an error, questioning my life choices, repeat.”*
+*“Writing code, deleting code, got an error, questioning my life choices, repeat.”*
