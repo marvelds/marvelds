@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi there, I'm Marvel Denzel! 👋
 
-<!--
-**marvelds/marvelds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```javascript
+// My current coding status:
+const developer = {
+  name: "Marvel Denzel",
+  role: "Computer Science Student",
+  skills: ["Basic HTML", "Basic CSS", "Basic JavaScript"],
+  currentFocus: "Learning the art of console.log('Hello World!')",
+  status: "Completely newborn coder, starting from zero!"
+};
 
-Here are some ideas to get you started:
+console.log(`Welcome to ${developer.name}'s profile!`);
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+- 📚 A beginner and trying to learn the fundamentals of coding.
+- 💻 Dreaming to be a front-end developer.
+
+“Writing code, deleting code, got an error, questioning my life choices, repeat.”*
