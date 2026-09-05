@@ -16,4 +16,6 @@ console.log(`Welcome to ${developer.name}'s profile!`);
 ### 🚀 About Me
 - 📚 A beginner and trying to learn the fundamentals of coding.
 
-*“Writing code, deleting code, got an error, questioning my life choices, repeat.”*
+*“Writing code, deleting code, got an error, questioning my life choices, repeat.”
+
+*"Also... coding is hard. BUT, it might be fun... I guess..."*
